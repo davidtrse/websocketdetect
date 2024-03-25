@@ -1,1 +1,3 @@
-websocket-client
+websocket-client==1.7.0
+opencv-python
+# Add other packages below as needed
