@@ -1,7 +1,7 @@
 setup:
-	python3 -m venv . \
-	a=$(pwd); \
-	source "$a/bin/activate" \
+	python3 -m venv .
+	a=$(pwd);
+	source "$a/bin/activate"
 	python3 -m pip install websockets
 #❯ pip3 install websockets
 init:
